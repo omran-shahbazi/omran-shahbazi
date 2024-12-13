@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Omran</h1>
-<p>A passionate Graduate Researcher exploring Trustworthy Machine Learning, Reinforcement Learning, Applied Mathematics, and Algorithm Design, with a particular interest in machine learning applications in finance, especially reinforcement learning.</p>
+<p>A passionate Graduate Researcher exploring Trustworthy Machine Learning, Reinforcement Learning, Applied Mathematics, and Algorithm Design, with a particular interest in Machine Learning applications in Finance, especially Reinforcement Learning.</p>
 
 
 # 💫 About Me:
