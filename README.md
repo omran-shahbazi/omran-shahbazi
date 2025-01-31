@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 <b>Currently researching</b> poisoning attacks on reinforcement learning<br>👯 <b>Open to collaboration</b> on research projects in trustworthy machine learning and machine learning applications in Finance<br>🌱 <b>Learning about</b> adversarial attack transferability and inverse reinforcement learning as well as its application in finance<br>💬 <b>Ask me about</b> radical life changes fueled by motivation<br>⚡ <b>Jack of all kicks</b> in martial arts, master of none! 🥋
+🔭 <b>Currently researching</b> poisoning attacks on reinforcement learning<br>👯 <b>Open to collaboration</b> on research projects in trustworthy machine learning and machine learning applications in Finance<br>🌱 <b>Learning about</b> adversarial attack transferability and inverse reinforcement learning as well as its application in Finance<br>💬 <b>Ask me about</b> radical life changes fueled by motivation<br>⚡ <b>Jack of all kicks</b> in martial arts, master of none! 🥋
 
 
 # 💻 Languages and Tools I Use:
